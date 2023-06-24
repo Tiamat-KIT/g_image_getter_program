@@ -1,0 +1,2 @@
+# g_image_getter_program
+検索キーワードからGoogle検索結果を引っ張ってくる
